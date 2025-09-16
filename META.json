@@ -1,0 +1,61 @@
+{
+  "category": "headless-cms",
+  "created_date": "2025-09-15T22:48:57.450669",
+  "default_ports": [
+    80,
+    443,
+    8055
+  ],
+  "dependencies": [],
+  "description": "directus is a free and open-source data platform. Directus provides instant REST and GraphQL APIs for SQL database",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/headless-cms/directus",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/headless-cms/directus",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.450692",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "directus",
+  "repository_url": "https://github.com/howtomgr/directus",
+  "spec_version": "2.0",
+  "subcategory": "headless-cms",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "headless-cms",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "directus Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/headless-cms/directus"
+}
